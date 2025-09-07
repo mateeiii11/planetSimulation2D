@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\ProgrammingPortofolio\planetSimulation2D\main.cpp(59,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\ProgrammingPortofolio\planetSimulation2D\main.cpp(93,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\ProgrammingPortofolio\planetSimulation2D\main.cpp(94,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\ProgrammingPortofolio\planetSimulation2D\main.cpp(187,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\ProgrammingPortofolio\planetSimulation2D\main.cpp(191,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenGL.vcxproj -> E:\ProgrammingPortofolio\planetSimulation2D\x64\Debug\planetSimulation2D.exe
