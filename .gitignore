@@ -1,0 +1,19 @@
+# Ignore build folders
+/Debug/
+/Release/
+/x64/
+/.vs/
+/ipch/
+
+# Ignore compiled files
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
